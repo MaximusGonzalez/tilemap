@@ -9,3 +9,4 @@ Colocar elementos recolectables y un elemento que indique la posición de llegad
 - Mejora 2: Construir un tercer nivel que sea de dimensiones más amplias que las del monitor para permitir el movimiento de cámara.
 
 - Mejora 3: Agregar enemigos con dos tipos de movimientos: vertical u horizontal, de acuerdo a la ubicación inicial de los mismos.
+123
